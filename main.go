@@ -1,7 +1,8 @@
 package main
+
 import (
-	"github.com/Kevin005/go_restful_example/app"
-	"github.com/Kevin005/go_restful_example/config"
+	"web-restful-golang/app"
+	"web-restful-golang/config"
 )
 
 func main() {

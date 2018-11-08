@@ -7,9 +7,9 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
-	"github.com/Kevin005/go_restful_example/handler"
-	"github.com/Kevin005/go_restful_example/app/model"
-	"github.com/Kevin005/go_restful_example/config"
+	"web-restful-golang/app/handler"
+	"web-restful-golang/app/model"
+	"web-restful-golang/config"
 )
 
 // App has router and db instances
